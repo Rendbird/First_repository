@@ -1,2 +1,4 @@
 1232	23
 fdgurejusbnyhfg
+delop define
+scop
